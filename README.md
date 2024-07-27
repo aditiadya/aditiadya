@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aditi Adya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiadya&label=Profile%20views&color=0e75b6&style=flat" alt="aditiadya" /> </p>
 
+🎓 I'm currently pursuing a B.Tech in Computer Science from Guru Gobind Singh Indraprastha University.
+
+💻 I'm passionate about web development and specialize in the MERN stack (MongoDB, Express.js, React, Node.js).
+
+🧩 I have a strong foundation in C++ data structures and algorithms, which helps me excel at problem-solving and writing efficient code.
+
+🚀 I'm always eager to learn new technologies and take on challenging projects. Feel free to check out my repositories and projects!
+
+🌐 Let's connect and collaborate on exciting opportunities!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditi-adya-6b2595225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-adya-6b2595225" height="30" width="40" /></a>
