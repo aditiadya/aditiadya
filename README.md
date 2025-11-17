@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Adya</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aditiadya&label=Profile%20views&color=0e75b6&style=flat" alt="aditiadya" /> </p>
 
-🎓 I'm currently pursuing a B.Tech in Computer Science from Guru Gobind Singh Indraprastha University.
+🎓 I'm a recent B.Tech graduate with specialization in Computer Science from Guru Gobind Singh Indraprastha University.
 
 💻 I'm passionate about web development and specialize in the MERN stack (MongoDB, Express.js, React, Node.js).
 
